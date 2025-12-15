@@ -1,4 +1,4 @@
 # first-demo
 this is my first repository 
 <br>
-admin = abhay jadhav
+admin = abhay jadhav (buddy)
